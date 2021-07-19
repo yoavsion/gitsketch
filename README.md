@@ -59,6 +59,7 @@ Following the example above under `importSketch`, here's how you would open the 
 `grunt openSketch --src=./versioned/shapes`
 
 **Note 1:** The generated file will have the same name as the versioned contents folder (`shapes`, in the example above) and will placed under that folder.
+
 **Note 2:** If you only wanted to generate the sketch file, but not open it, use `grunt genSketch --src=<versioned-sketch-folder>`
 
 ### grunt stageSketch
