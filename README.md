@@ -1,8 +1,7 @@
 # gitsketch
 A set of grunt tasks for versioning sketch file contents in git
-
-[![npm version](https://img.shields.io/npm/v/grunt-git-sketch.svg)](https://www.npmjs.com/package/grunt-git-sketch)
-[![dependencies](https://img.shields.io/david/yoavsion/gitsketch.svg)](https://david-dm.org/yoavsion/gitsketch)
+[![npm version](https://img.shields.io/npm/v/who-imports.svg)](https://www.npmjs.com/package/grunt-git-sketch)
+[![Downloads](https://img.shields.io/npm/dm/who-imports.svg)](https://www.npmjs.com/package/grunt-git-sketch)
 
 ---
 
